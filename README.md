@@ -1,15 +1,15 @@
 # Olá, eu sou o **datacyberslayer**! 👨‍💻
 
-Bem-vindo ao meu perfil no GitHub! Sou um **DevOps** apaixonado por automatizar, otimizar e construir pipelines que fazem sistemas voarem. 🚀 Aqui você vai encontrar projetos relacionados a infraestrutura como código, CI/CD, containers, orquestração e muito mais!
+Bem-vindo ao meu perfil no GitHub! Sou um **DevOps** apaixonado por automatizar, otimizar e construir pipelines que fazem sistemas voarem. 🚀 Aqui você vai encontrar projetos relacionados a infraestrutura como código, CI/CD, containers, orquestração, música e muito mais!
 
 ## 🛠️ Sobre mim
 - **Nome**: datacyberslayer
 - **Ocupação**: Engenheiro DevOps com foco em soluções seguras em ambiente Cloud Solutions
 - **Missão**: Transformar caos em ordem com automação e boas práticas.
-- **Hobbies**: Tinkering com novas ferramentas, jogos cyberpunk e memes de gatinhos. 😺
+- **Hobbies**: Tinkering com novas ferramentas, jogos cyberpunk. 😺
 
 ## 🚀 Tecnologias e Frameworks
-Aqui estão algumas das ferramentas e frameworks que eu domino:
+Aqui estão algumas das ferramentas e frameworks que trabalho:
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
