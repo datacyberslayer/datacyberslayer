@@ -41,7 +41,7 @@ Porque DevOps também precisa de um toque de leveza:
 ![GitHub Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## 📫 Como me encontrar
-- **LinkedIn**: [datacyberslayer]([https://linkedin.com/in/datacyberslayer](https://br.linkedin.com/in/luanfaria?trk=public_profile_recommendations))
+- **LinkedIn**: [datacyberslayer](https://linkedin.com/in/datacyberslayer](https://br.linkedin.com/in/luanfaria?trk=public_profile_recommendations)
 
 
 Obrigado por visitar meu perfil! 🚀 Vamos construir algo incrível juntos?
