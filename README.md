@@ -27,7 +27,11 @@ Aqui estão algumas das ferramentas e frameworks que trabalho:
 
 ## 🎵 Um toque de som
 Dê um play na vibe enquanto explora meu perfil!  
-🔊 **[Ouça minha trilha sonora](https://youtu.be/9UB4XE4kWOk)** *(substitua pelo link do seu arquivo de áudio)*
+<audio controls>
+  <source src="https://example.com/netrun-vol5.mp3" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
+
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datacyberslayer&show_icons=true&theme=radical)
