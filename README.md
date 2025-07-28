@@ -4,9 +4,9 @@ Bem-vindo ao meu perfil no GitHub! Sou um **DevOps** apaixonado por automatizar,
 
 ## 🛠️ Sobre mim
 - **Nome**: datacyberslayer
-- **Ocupação**: Engenheiro DevOps com foco em soluções seguras em ambiente Cloud Solutions
-- **Missão**: Transformar caos em ordem com automação e boas práticas.
-- **Hobbies**: Tinkering com novas ferramentas, jogos cyberpunk. 😺
+- **Ocupação**: Engenheiro DevOps com foco em soluções seguras em ambiente Cloud Solutions.
+- **Missão**: Transformar caos em ordem com automação e boas práticas e programação.
+- **Hobbies**: Tinkering com novas ferramentas. 😺
 
 ## 🚀 Tecnologias e Frameworks
 Aqui estão algumas das ferramentas e frameworks que trabalho:
@@ -36,7 +36,7 @@ Dê um play na vibe enquanto explora meu perfil!
 ![Profile Views](https://komarev.com/ghpvc/?username=datacyberslayer&color=blueviolet)
 
 ## 😺 Um pouco de diversão
-Porque DevOps também precisa de um toque de leveza:
+
 
 ![GitHub Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
