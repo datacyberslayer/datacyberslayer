@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil no GitHub!, 🚀 Aqui você vai encontrar projetos relac
 
 ## 🛠️ Sobre mim
 - **Nome**: datacyberslayer
-- **Ocupação**: Engenheiro DevOps foco Cloud Solutions
+- **Ocupação**: Engenheiro DevOps com foco em soluções seguras em ambiente Cloud Solutions
 - **Missão**: Transformar caos em ordem com automação e boas práticas.
 - **Hobbies**: Tinkering com novas ferramentas, jogos cyberpunk. 😺
 
