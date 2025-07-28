@@ -25,14 +25,6 @@ Aqui estão algumas das ferramentas e frameworks que trabalho:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## 🎵 Um toque de som
-Dê um play na vibe enquanto explora meu perfil!  
-<audio controls>
-  <source src="https://example.com/netrun-vol5.mp3" type="audio/mpeg">
-  Seu navegador não suporta o elemento de áudio.
-</audio>
-
-
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datacyberslayer&show_icons=true&theme=radical)
 
