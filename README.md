@@ -1,12 +1,12 @@
-# Hi! i am **datacyberslayer**! 👨‍💻
+# Olá, eu sou o **datacyberslayer**! 👨‍💻
 
-Bem-vindo ao meu perfil no GitHub!, 🚀 Aqui você vai encontrar projetos relacionados a infraestrutura como código, CI/CD, containers, orquestração e muito mais!
+Bem-vindo ao meu perfil no GitHub! Sou um **DevOps** apaixonado por automatizar, otimizar e construir pipelines que fazem sistemas voarem. 🚀 Aqui você vai encontrar projetos relacionados a infraestrutura como código, CI/CD, containers, orquestração e muito mais!
 
 ## 🛠️ Sobre mim
 - **Nome**: datacyberslayer
 - **Ocupação**: Engenheiro DevOps com foco em soluções seguras em ambiente Cloud Solutions
 - **Missão**: Transformar caos em ordem com automação e boas práticas.
-- **Hobbies**: Tinkering com novas ferramentas, jogos cyberpunk. 😺
+- **Hobbies**: Tinkering com novas ferramentas, jogos cyberpunk e memes de gatinhos. 😺
 
 ## 🚀 Tecnologias e Frameworks
 Aqui estão algumas das ferramentas e frameworks que eu domino:
@@ -20,6 +20,14 @@ Aqui estão algumas das ferramentas e frameworks que eu domino:
 ![OCI](https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux Foundation](https://img.shields.io/badge/Linux%20Foundation-%23002A97.svg?style=for-the-badge&logo=linux-foundation&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-%23B22222.svg?style=for-the-badge&logo=delphi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+## 🎵 Um toque de som
+Dê um play na vibe enquanto explora meu perfil!  
+🔊 **[Ouça minha trilha sonora](https://example.com/your-audio-file.mp3)** *(substitua pelo link do seu arquivo de áudio)*
 
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datacyberslayer&show_icons=true&theme=radical)
@@ -33,6 +41,8 @@ Porque DevOps também precisa de um toque de leveza:
 ![GitHub Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## 📫 Como me encontrar
-- **LinkedIn**: [datacyberslayer](https://linkedin.com/in/datacyberslayer) 
+- **LinkedIn**: [datacyberslayer](https://linkedin.com/in/datacyberslayer) *(substitua pelo seu link real)*
+- **E-mail**: datacyberslayer@example.com *(substitua pelo seu e-mail)*
+- **X**: [@datacyberslayer](https://x.com/datacyberslayer) *(substitua pelo seu perfil)*
 
 Obrigado por visitar meu perfil! 🚀 Vamos construir algo incrível juntos?
